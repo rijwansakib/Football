@@ -230,7 +230,7 @@ footer h3{
 }
 
 .social-media{
-    width: 350px;
+    width: 25%;
     margin: 0 auto;
     padding: 10px;
     display: flex;
@@ -325,7 +325,7 @@ header{
     margin: 0 auto;
 }
 .logo img{
-    width: 300px;
+    width: 60%;
     margin: 0 auto;
 }
 
@@ -350,6 +350,10 @@ header{
     flex-direction: column;
 
 
+}
+
+.social-media{
+    width: 80%;
 }
 
 }
@@ -441,6 +445,10 @@ header{
 .logo img{
     width: 300px;
     margin: 0 auto;
+}
+.social-media{
+    width: 50%;
+
 }
     
 
